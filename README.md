@@ -50,8 +50,8 @@ Python, Pandas, NumPy, Scikit-learn, XGBoost, Matplotlib, Seaborn, Streamlit
 
 ```
 workforce-retention/
-├── train_model.py            # Preprocessing + model training
-├── app.py                    # Streamlit app
+├── workforce_retention_system.py            # Preprocessing + model training
+├── app.py                                   # Streamlit app
 ├── requirements.txt
 ├── encoders.pkl
 ├── xgb_attrition_model.json
